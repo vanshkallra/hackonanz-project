@@ -1,7 +1,7 @@
 import { FaRegComment } from "react-icons/fa";
 import { BiRepost } from "react-icons/bi";
 import { FaRegHeart } from "react-icons/fa";
-import { FaRegBookmark } from "react-icons/fa6";
+// import { FaRegBookmark } from "react-icons/fa6";
 import { FaTrash } from "react-icons/fa";
 import { useState } from "react";
 import { Link } from "react-router-dom";
@@ -167,8 +167,8 @@ const Post = ({ post }) => {
 								className='flex gap-1 items-center cursor-pointer group'
 								onClick={() => document.getElementById("comments_modal" + post._id).showModal()}
 							>
-								<FaRegComment className='w-4 h-4  text-slate-500 group-hover:text-sky-400' />
-								<span className='text-sm text-slate-500 group-hover:text-sky-400'>
+								<FaRegComment className='w-4 h-4  text-slate-500 group-hover:text-orange-500' />
+								<span className='text-sm text-slate-500 group-hover:text-orange-500'>
 									{post.comments.length}
 								</span>
 							</div>
@@ -244,9 +244,9 @@ const Post = ({ post }) => {
 								</span>
 							</div>
 						</div>
-						<div className='flex w-1/3 justify-end gap-2 items-center'>
+						{/* <div className='flex w-1/3 justify-end gap-2 items-center'>
 							<FaRegBookmark className='w-4 h-4 text-slate-500 cursor-pointer' />
-						</div>
+						</div> */}
 					</div>
 				</div>
 			</div>
