@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import XSvg from "../../../components/svgs/X";
 
-import { MdOutlineMail } from "react-icons/md";
+// import { MdOutlineMail } from "react-icons/md";
 import { CiUser } from "react-icons/ci";
 import { MdPassword } from "react-icons/md";
 
