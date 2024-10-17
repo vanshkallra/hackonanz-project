@@ -78,7 +78,7 @@ const EditProfileModal = ({ authUser }) => {
 								onChange={handleInputChange}
 							/>
 							<textarea
-								placeholder='Bio'
+								placeholder='Interests'
 								className='flex-1 input border border-gray-700 rounded p-2 input-md'
 								value={formData.bio}
 								name='bio'
