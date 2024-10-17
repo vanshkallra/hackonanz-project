@@ -1,47 +1,50 @@
-# MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT, Socket.io
+<!-- # React + Vite
 
-![Demo App](https://i.ibb.co/f8y9vGS/Group-82.png)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-[Video Tutorial on Youtube](https://youtu.be/4GUVz2psWUg)
+Currently, two official plugins are available:
 
-Some Features:
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh -->
 
--   ⚛️ Tech Stack: React.js, MongoDB, Node.js, Express, Tailwind
--   🔐 Authentication with JSONWEBTOKENS (JWT)
--   🔥 React Query for Data Fetching, Caching etc.
--   👥 Suggested Users to Follow
--   ✍️ Creating Posts
--   🗑️ Deleting Posts
--   💬 Commenting on Posts
--   ❤️ Liking Posts
--   🔒 Delete Posts (if you are the owner)
--   📝 Edit Profile Info
--   🖼️ Edit Cover Image and Profile Image
--   📷 Image Uploads using Cloudinary
--   🔔 Send Notifications
--   🌐 Deployment
--   ⏳ And much more!
+# University Based Comprehensive Digital Platform - dusk
 
-### Setup .env file
+## Overview
+This platform allows students from the university to connect with each other based on shared interests, facilitating better communication and collaboration within the student community. Users can create posts, interact through likes and comments, and access a dynamic events page displaying details of upcoming university events. The events data is scraped from the *Resonanz NSUT* website using *BeautifulSoup* and *bs4* for dynamic display.
 
-```js
-MONGO_URI=...
-PORT=...
-JWT_SECRET=...
-NODE_ENV=...
-CLOUDINARY_CLOUD_NAME=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
-```
+## Features
+- *Home Page*: View posts from fellow students, with options to like and comment on each post.
+- *Notifications*: A notifications tab to check interactions such as new likes and comments on your posts.
+- *Create Post*: Students can create posts with text and images, engaging in discussions based on shared interests.
+- *Events Page: A button redirects users to a dynamically generated events page, where event details are scraped from the **Resonanz NSUT* website and displayed in a responsive layout.
 
-### Build the app
+## Tech Stack
+- *Frontend*: React (JavaScript)
+- *Backend*: Node.js with Express
+- *Database*: MongoDB
+- *Web Scraping*: BeautifulSoup, bs4
+- *Styling*: Tailwind CSS
 
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm start
-```
+## Project Structure
+```bash
+.
+├── public
+│   ├── index.html
+│   └── ...
+├── src
+│   ├── components
+│   │   ├── Home.js           # Home page component
+│   │   ├── Notifications.js  # Notifications page component
+│   │   ├── CreatePost.js     # Post creation form
+│   │   ├── Events.js         # Event page component
+│   │   └── Post.js           # Single post component (with like & comment functionality)
+│   ├── utils
+│   │   └── scraper.js        # Script for scraping data using BeautifulSoup
+│   ├── App.js                # Main app component
+│   ├── index.js              # Entry point
+│   └── ...
+├── server
+│   ├── server.js             # Backend server setup with Express
+├── tailwind.config.js        # Tailwind configuration file
+├── package.json              # Project dependencies
+└── README.md                 # You're here!
