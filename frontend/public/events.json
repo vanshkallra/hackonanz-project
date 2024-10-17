@@ -1,0 +1,203 @@
+[
+    {
+        "event-name": "Creator Meet",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2Freso.jpeg&w=2048&q=75",
+        "desc":"Get ready for an inspiring day as we welcome a distinguished creator to our college! Join us for an engaging event where [Creator's Name], a trailblazer in [Creator's Field]",
+        "day": "Day 1",
+        "time": "13:30-15:30",
+        "duration": "2 Hrs",
+        "venue": "Main Stage",
+        "Point of Contact:": "Arpit Yadav : 7827848486"
+    },
+    {
+        "event-name": "Crescendo Eve",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2Freso.jpeg&w=2048&q=75",
+        "desc":"Crescendo eve is the event that marks the beginning of every fest in nsut. On day 1, Magic is created in the college premises when the music society performs",
+        "day": "Day 1",
+        "time": "15:00-19:00",
+        "duration": "4 hrs",
+        "venue": "Main Stage",
+        "Point of Contact:": "Pranav Arora : 92053 76809 Vishnu : 90197 73682"
+    },
+    {
+        "event-name": "NSUT Got Latent",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2F2.png&w=2048&q=75",
+        "desc":"INDIA'S GOT LATENT inspired NSUT's own satirical and Open Mic Event.",
+        "day": "Day 1",
+        "time": "13:00-17:00",
+        "duration": "2 Hrs",
+        "venue": "Admin",
+        "Point of Contact:": "NITIN: 8307397553 Lavanya Mehta: 7982439719"
+    },
+    {
+        "event-name": "Nautanki",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2Freso.jpeg&w=2048&q=75",
+        "desc" :"Team of 1 or more people have to present a 8-10 min act. On spot registrations allowed. Google form will be released on instagram",
+        "day": "Day 1",
+        "time": "11:00-18:00",
+        "duration": " 7 hrs",
+        "venue": "Main Stage",
+        "Point of Contact:": "Pranav: 7827440017 Srishti Nagar: 8595954663"
+    },
+    {
+        "event-name": "Dynamo",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2F3.png&w=2048&q=75",
+        "desc":"DYNAMO is a competitive gaming tournament where players face off in the FIFA video game series in a Local Area Network (LAN) setup. Participants will play one-on-one matches, using their football skills and strategies to outscore their opponents",
+        "day": "Day 1",
+        "time": "13:00-16:00",
+        "duration": "2 Hrs",
+        "venue": "Mini Audi 1",
+        "Point of Contact:": "Saanvvi Singh: 9868540809 Vivek Verma: 8287151146"
+    },
+    {
+        "event-name": "Bid it to win it",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2Freso.jpeg&w=2048&q=75",
+        "desc":"It is a bidding event in which we will invite teams with 2-4 members each and then to start off the event, there is a product of a particular cost and then we will give the team riddles/guesstimates and they have to reach to the number closest to the price of the product and the team get to a number the one with the closest to the correct answer will be considered as favorable",
+        "day": "Day 1",
+        "time": "11:30-14:00",
+        "duration": "2.5 hrs",
+        "venue": "Mini Audi 1",
+        "Point of Contact:": "Shatakshi Sinha: 7982909472 Jyotin Singh Thaku: 8076380586"
+    },
+    {
+        "event-name": "Robo Relay Challenge",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2F4.png&w=2048&q=75",
+        "desc":"It is a Relay race with robots which need to pass the baton from one bot to another , A total of 3 bots will be provided per team",
+        "day": "Day 1",
+        "time": "14:00-17:00",
+        "duration": "3 Hrs",
+        "venue": "Main Stage",
+        "Point of Contact:": "Ravi Raj : 9310515672 Namai: 9315159323"
+    },
+    {
+        "event-name": "VoidWraiths",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2F5.png&w=2048&q=75",
+        "desc":"This is a fascinating and enjoyable game.  2 participants can play at a time. Two participants have to sit, two opposite sides of the table, facing each other. There will be 6 identical boxes on the table. 3 boxes will contain prizes and 3 boxes will be empty.",
+        "day": "Day 1",
+        "time": "15:00 - 18:00",
+        "duration": "3 Hrs",
+        "venue": "Nescii 1",
+        "Point of Contact:": "Vaibhav Rajput : 98211 55417 Dipankar: 70997 14547"
+    },
+    {
+        "event-name": "Green escape",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2F6.png&w=2048&q=75",
+        "desc":"The Green Escape Challenge is a team-based competition where participants race through checkpoints, each featuring tasks related to environmental sustainability and social causes. ",
+        "day": "Day 1",
+        "time": "14:00 - 17:30",
+        "duration": "3 Hrs",
+        "venue": "Nescii 2",
+        "Point of Contact:": "KARTIK: 9625437230 Nishtha: 6392451344"
+    },
+    {
+        "event-name": "Scavenger Hunt",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2F7.png&w=2048&q=75",
+        "desc":"There will be a bowl of chits and in those chits we'll mention random items, like purse shoes socks t shirt anything. And the participants have to find the items in the given time and bring it to the table.",
+        "day": "Day 1",
+        "time": "14:00 - 17:30",
+        "duration": "3 Hrs",
+        "venue": "Nescii 2",
+        "Point of Contact:": "Nishtha Singh: 81301 52049 Abhisaar Shukla: 93106 47965"
+    },
+    {
+        "event-name": "Cosmic Chase",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2F8.png&w=2048&q=75",
+        "desc":"G1.Each team will have 3-4 members starting from a designated point (e.g., Amul). 2.Teams must answer questions to receive a map containing hints (riddles related to planets) for locating specific college spots. 3.If a team answers incorrectly, they must complete a task or dare to receive the map.",
+        "day": "Day 1",
+        "time": "14:00 - 17:30",
+        "duration": "3 Hrs",
+        "venue": "Nescii 2",
+        "Point of Contact:": "Tanishtha :9667253437 Aman :9968966408"
+    },
+    {
+        "event-name": "Polymath",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2F9.png&w=2048&q=75",
+        "desc": "The Polymath : A search for  the next Renaissance Man! Step into the most thrilling competition yet!Navigate the Cinematic Stepping Stones, where teams race through rings while tied together—will the genres you end up with the happy ending you desire? or will it end up with you drowning in a complete flop!",
+        "day": "Day 1",
+        "time": "11:30 - 14:30",
+        "duration": "3 Hrs",
+        "venue": "Amul",
+        "Point of Contact:": "Tanishtha :9667253437 Aman :9968966408"
+    },
+    {
+        "event-name": "Bolti Band",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2F10.png&w=2048&q=75",
+        "desc":"Get ready for an inspiring day as we welcome a distinguished creator to our college! ",
+        "day": "Day 1",
+        "time": "11:30 - 14:30",
+        "duration": "3 Hrs",
+        "venue": "Amul",
+        "Point of Contact:": "Shubham Mittal: 8171124347 Amrit Saini: 9711272588"
+    },
+    {
+        "event-name": "Marketer of the year",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2F11.png&w=2048&q=75",
+        "desc":"A fun and engaging event to participate in duos where one will be whispering some funny phrases and the receiver has to decode it, while listening to their favourite music.",
+        "day": "Day 1",
+        "time": "14:00 - 17:30",
+        "duration": "3 Hrs",
+        "venue": "Nescii 2",
+        "Point of Contact:": "Aman: 9968966408 Saniya: 9810494658"
+    },
+    {
+        "event-name": "Hackonanz",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2F12.png&w=2048&q=75",
+        "desc":"A fun and engaging event to participate in duos where one will be whispering some funny phrases and the receiver has to decode it, while listening to their favourite music.",
+        "day": "Day 1",
+        "time": "10:00-10:00",
+        "duration": "24 hrs",
+        "venue": "S01 + S02 + S03 + S04",
+        "Point of Contact:": "Monis: 83182 40784 Kratika: 83182 40784"
+    },
+    {
+        "event-name": "Beyond the grid",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2F13.png&w=2048&q=75",
+        "desc":"A fun and engaging event to participate in duos where one will be whispering some funny phrases and the receiver has to decode it, while listening to their favourite music.",
+        "day": "Day 1",
+        "time": "13:00-16:00",
+        "duration": "3 Hrs",
+        "venue": "Nescii 2",
+        "Point of Contact:": "Deepak Chandwani: 9873254144 Priya Soni: 9958870708"
+    },
+    {
+        "event-name": "Cosmic Papercraft",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2Freso.jpeg&w=2048&q=75",
+        "desc":"A fun and engaging event to participate in duos where one will be whispering some funny phrases and the receiver has to decode it, while listening to their favourite music.",
+        "day": "Day 1",
+        "time": "14:00 - 17:30",
+        "duration": "3 Hrs",
+        "venue": "Nescii 2",
+        "Point of Contact:": "Laxmi singh : 9650878489 Shovita: 9319238831"
+    },
+    {
+        "event-name": "Trust Fall disaster",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2Freso.jpeg&w=2048&q=75",
+        "desc":"A fun and engaging event to participate in duos where one will be whispering some funny phrases and the receiver has to decode it, while listening to their favourite music.",
+        "day": "Day 1",
+        "time": "14:30-17:00",
+        "duration": "2.5 hrs",
+        "venue": "4 Lawn",
+        "Point of Contact:": "Shubhangi Johri : 7505216536 Prince: 9310022166"
+    },
+    {
+        "event-name": "Jo hukum mere akaa",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2Freso.jpeg&w=2048&q=75",
+        "desc":"A fun and engaging event to participate in duos where one will be whispering some funny phrases and the receiver has to decode it, while listening to their favourite music.",
+        "day": "Day 1",
+        "time": "15:30-18:00",
+        "duration": "2.5 hrs",
+        "venue": " 5 Lawn",
+        "Point of Contact:": "Vivek: 7011929848 Arpit Malik: 7056470711"
+    },
+    {
+        "event-name": "Mr. and Ms. Fresher",
+        "img":"https://www.resonanznsut.com/_next/image?url=%2Fposters%2Freso.jpeg&w=2048&q=75",
+        "desc":"A fun and engaging event to participate in duos where one will be whispering some funny phrases and the receiver has to decode it, while listening to their favourite music.",
+        "day": "Day 1",
+        "time": "11:30-16:00",
+        "duration": "4.5 hrs",
+        "venue": "APJ 11",
+        "Point of Contact:": "Muskaan: 9136044444 Vidushi: 9643666745"
+    }
+    
+]
