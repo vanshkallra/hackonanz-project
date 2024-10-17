@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 
 import useFollow from "../../hooks/useFollow";
@@ -7,6 +7,7 @@ import RightPanelSkeleton from "../skeletons/RightPanelSkeleton";
 import LoadingSpinner from "./LoadingSpinner";
 
 const RightPanel = () => {
+	const location = useLocation(); // Get the current location
 	const { data: suggestedUsers, isLoading } = useQuery({
 		queryKey: ["suggestedUsers"],
 		queryFn: async () => {
@@ -24,6 +25,12 @@ const RightPanel = () => {
 	});
 
 	const { follow, isPending } = useFollow();
+
+	// Check if the user is on the Events page
+	const isEventsPage = location.pathname === '/events';
+
+	// If on Events page, don't render RightPanel
+	if (isEventsPage) return null;
 
 	if (suggestedUsers?.length === 0) return <div className='md:w-64 w-0'></div>;
 
@@ -79,4 +86,5 @@ const RightPanel = () => {
 		</div>
 	);
 };
+
 export default RightPanel;
